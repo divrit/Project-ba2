@@ -208,3 +208,27 @@
 2020-04-30 00:09:43,117 [Worker-68: Launching Project - ProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-04-30 00:09:43,121 [Worker-68: Launching Project - ProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-04-30 00:09:43,121 [Worker-68: Launching Project - ProjectApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dirit\Desktop\shubshrivatsa\Project\src\test\resources
+2020-04-30 08:55:23,557 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-30 12:27:31,885 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-30 17:29:23,798 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-30 21:03:00,807 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-30 21:10:05,513 [Worker-9: Launching MyEurekaServer - MyEurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 21:10:05,547 [Worker-9: Launching MyEurekaServer - MyEurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-30 21:10:05,616 [Worker-9: Launching MyEurekaServer - MyEurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 21:10:05,622 [Worker-9: Launching MyEurekaServer - MyEurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 21:10:05,622 [Worker-9: Launching MyEurekaServer - MyEurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dirit\Desktop\shubshrivatsa\MyEurekaServer\src\test\resources
+2020-04-30 21:10:38,975 [Worker-8: Launching Employee - EmployeeApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 21:10:38,976 [Worker-8: Launching Employee - EmployeeApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-30 21:10:38,979 [Worker-8: Launching Employee - EmployeeApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 21:10:38,984 [Worker-8: Launching Employee - EmployeeApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 21:10:38,984 [Worker-8: Launching Employee - EmployeeApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dirit\Desktop\shubshrivatsa\Employee\src\test\resources
+2020-04-30 21:10:56,460 [Worker-2: Launching MyZuulGateway - MyZuulGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 21:10:56,461 [Worker-2: Launching MyZuulGateway - MyZuulGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-30 21:10:56,464 [Worker-2: Launching MyZuulGateway - MyZuulGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 21:10:56,487 [Worker-2: Launching MyZuulGateway - MyZuulGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 21:10:56,487 [Worker-2: Launching MyZuulGateway - MyZuulGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dirit\Desktop\shubshrivatsa\MyZuulGateway\src\test\resources
+2020-04-30 21:15:05,638 [Worker-0: Launching MyZuulGateway - MyZuulGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 21:15:05,645 [Worker-0: Launching MyZuulGateway - MyZuulGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-30 21:15:05,647 [Worker-0: Launching MyZuulGateway - MyZuulGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 21:15:05,651 [Worker-0: Launching MyZuulGateway - MyZuulGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 21:15:05,651 [Worker-0: Launching MyZuulGateway - MyZuulGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dirit\Desktop\shubshrivatsa\MyZuulGateway\src\test\resources
